@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #000;
+}
+.v-application {
+  font-family: 'Montserrat', sans-serif !important;
+}

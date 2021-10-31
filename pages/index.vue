@@ -24,6 +24,24 @@
         <div class="scroll-btn"></div>
         <div class="container">
           <div>
+            <h3>#RANKING</h3>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
+              aliquid error quae fugit velit rerum. Magni laudantium, cumque
+              consectetur sint laborum voluptatibus! Accusantium inventore ipsam
+              hic molestiae ut facilis sequi!
+            </p>
+          </div>
+          <div>
+            <h3>24hrs TRADING VOL.</h3>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
+              aliquid error quae fugit velit rerum. Magni laudantium, cumque
+              consectetur sint laborum voluptatibus! Accusantium inventore ipsam
+              hic molestiae ut facilis sequi!
+            </p>
+          </div>
+          <div>
             <h3>MARKET CAP</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
@@ -43,6 +61,24 @@
           </div>
           <div>
             <h3>CIRCULATING SUPPLY</h3>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
+              aliquid error quae fugit velit rerum. Magni laudantium, cumque
+              consectetur sint laborum voluptatibus! Accusantium inventore ipsam
+              hic molestiae ut facilis sequi!
+            </p>
+          </div>
+          <div>
+            <h3>TECHNICAL PAPER</h3>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
+              aliquid error quae fugit velit rerum. Magni laudantium, cumque
+              consectetur sint laborum voluptatibus! Accusantium inventore ipsam
+              hic molestiae ut facilis sequi!
+            </p>
+          </div>
+          <div>
+            <h3>COMMUNITY</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
               aliquid error quae fugit velit rerum. Magni laudantium, cumque
@@ -87,7 +123,8 @@ export default {
   font-size: 1.2rem;
   width: 100%;
   display: flex;
-  justify-content: end;
+  text-align: right;
+  justify-content: flex-end;
 }
 .selected {
   position: absolute;
@@ -120,14 +157,13 @@ export default {
   justify-content: center;
   font-size: 1rem;
   box-shadow: 0px 0px 15px 0 rgba(6, 214, 160, 0.5);
-  /* font-weight: 500; */
 }
 .func-wrapper {
   position: fixed;
   min-height: 100vh;
   top: 5%;
   bottom: 0;
-  padding-top: 85vh;
+  padding-top: 80vh;
   width: 95%;
   max-width: 768px;
   margin: 0 auto;

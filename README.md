@@ -1,5 +1,7 @@
 # coincap
 
+<img width="1440" alt="Screen Shot 2022-08-09 at 16 31 19" src="https://user-images.githubusercontent.com/63503344/183693611-35eff2c1-7f19-444c-a29c-dfcba8333852.png">
+
 ## Build Setup
 
 ```bash
